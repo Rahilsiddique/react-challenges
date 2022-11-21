@@ -1,4 +1,5 @@
-# react-challenges
+
+![React Challenges-banner](https://user-images.githubusercontent.com/75086395/203084113-969716a6-f31e-43c0-ba99-5bb25441e573.png)
 
 ### Create accordian using react 
 - [Simple Accordian](https://codesandbox.io/s/accordian-37mgrm)
