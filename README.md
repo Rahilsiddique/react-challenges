@@ -20,3 +20,13 @@
 3. Undo deletes the most recently created circle and redo brings it back. 
 
 - [solution: circle thing](https://codesandbox.io/s/react-challenge-click-to-show-circle-4phx7s)
+
+#### 4. Folder structure 
+
+1. create folder structure like this <br>
+2. make the toggle functionality where folder can be open and closed <br>
+![image](https://user-images.githubusercontent.com/75086395/204137212-192986a6-8342-4628-964d-ead55b430162.png)
+
+-[solution: folder structure](https://codesandbox.io/s/file-structure-ek74vp?file=/src/App.js)
+
+
