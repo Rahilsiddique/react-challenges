@@ -2,8 +2,8 @@
 
 
 ### 1. Create accordian using react 
-- [Simple Accordian](https://codesandbox.io/s/accordian-37mgrm)
-- [Accordian](https://codesandbox.io/s/advance-accordian-dngrgx)
+- [solution: Simple Accordian](https://codesandbox.io/s/accordian-37mgrm)
+- [solution: Accordian](https://codesandbox.io/s/advance-accordian-dngrgx)
 
 ### 2. Create color guessing game using react 
 
@@ -27,6 +27,6 @@
 2. make the toggle functionality where folder can be open and closed <br>
 ![image](https://user-images.githubusercontent.com/75086395/204137212-192986a6-8342-4628-964d-ead55b430162.png)
 
--[solution: folder structure](https://codesandbox.io/s/file-structure-ek74vp?file=/src/App.js)
+- [solution: folder structure](https://codesandbox.io/s/file-structure-ek74vp?file=/src/App.js)
 
 
