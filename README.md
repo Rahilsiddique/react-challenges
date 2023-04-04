@@ -44,4 +44,8 @@
 
 - [solution](https://codesandbox.io/s/usereducer-00cz5q?file=/src/index.js)
 
+### 7. dictionary app
+
+- [possible solution](https://glittering-gelato-f8c519.netlify.app/)
+
 
