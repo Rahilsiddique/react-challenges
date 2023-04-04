@@ -37,4 +37,11 @@
 
 - [solution: Dropdown](https://codesandbox.io/s/react-challenge-z9w44j)
 
+### 6. Counter with useReducer + context 
+
+1. create a simple counter that can incriment/decriment/reset the counter
+2. incriment according to the input provided by the user
+
+- [solution](https://codesandbox.io/s/usereducer-00cz5q?file=/src/index.js)
+
 
