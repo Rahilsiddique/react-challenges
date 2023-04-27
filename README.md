@@ -48,4 +48,8 @@
 
 - [possible solution](https://glittering-gelato-f8c519.netlify.app/)
 
+### 8. check befor delete
+
+- [solution](https://codesandbox.io/s/checkbox-thing-20my9e?file=/src/App.js)
+
 
