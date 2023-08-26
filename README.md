@@ -52,4 +52,8 @@
 
 - [solution](https://codesandbox.io/s/checkbox-thing-20my9e?file=/src/App.js)
 
+### 9. carousel 
+
+- [solution](https://codesandbox.io/s/react-carousel-challenge-5r26xz?file=/src/components/Caroursel.jsx)
+
 
